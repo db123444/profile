@@ -1,0 +1,13 @@
+ body{
+    text-align: center;
+ }    
+     
+.line{
+    height: 6px;
+    width:100px;
+    background-color: black;
+    margin: 8px;
+
+
+
+}
